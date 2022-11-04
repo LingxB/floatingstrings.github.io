@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://floatingstrings.github.io/</loc>
+    <lastmod>2022-11-04T12:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://floatingstrings.github.io/posts/mypost/</loc>
+    <lastmod>2022-11-04T12:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://floatingstrings.github.io/posts/</loc>
+    <lastmod>2022-11-04T12:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://floatingstrings.github.io/tags/</loc>
+    <lastmod>2022-11-04T12:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://floatingstrings.github.io/tags/untagged/</loc>
+    <lastmod>2022-11-04T12:15:55+01:00</lastmod>
+  </url><url>
+    <loc>https://floatingstrings.github.io/blog/</loc>
+  </url><url>
+    <loc>https://floatingstrings.github.io/series/</loc>
+  </url>
+</urlset>
